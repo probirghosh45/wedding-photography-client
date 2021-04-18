@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "strId":"pre_wedding",
+        "name":"PRE-WEDDING EVENTS",
+        "description":"Pre-wedding are a big part of your cultural wedding story. The colorful and classical photos from these events increase the amount of photos you will receive as part of your wedding package.",
+        "price":"700",
+        "icon": "https://i.ibb.co/drGB5DL/pre-wedding.jpg"
+    },
+    {
+        "id":2,
+        "strId":"engagement_session",
+        "name":"ENGAGEMENT SESSION",
+        "description":"An engagement session is a fun and creative 3 hour photo shoot done prior to your wedding. It allows you to become comfortable with me as your photographer and me to get to know you better as a couple. You will have 50 edited photos to use for invitations and/or to display at your wedding.",
+        "price":"800",
+        "icon": "https://i.ibb.co/zNg2QFK/engagement.jpg"
+
+    },
+    {
+        "id":3,
+        "strId":"wedding_album",
+        "name":"WEDDING ALBUM",
+        "description":"A stunning leather flush mount album is the final masterpiece of your beautiful wedding. When browsing through the 30 pages of your individually designed 10” x 10” photo album, you and your friends can relive the story of your wedding day.",
+        "price":"1,000",
+        "icon": "https://i.ibb.co/fqRbXVv/wedding-album.jpg"
+    }
+
+]
